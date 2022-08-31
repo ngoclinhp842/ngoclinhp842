@@ -1,7 +1,8 @@
-![MasterHead](https://www.deliveryhero.com/wp-content/uploads/2021/04/DH_Blog_Header_WomenInTech_2000x1100px_2_Blue.png)
-
 <h1 align="center">Hi 👋, I'm Michelle Phan</h1>
 <h3 align="center">A passionate software engineer from Vietnam</h3>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/508588/screenshots/11263629/thg_m78_02_4x.jpg">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngoclinhp842&label=Profile%20views&color=0e75b6&style=flat" alt="ngoclinhp842" /> </p>
 
