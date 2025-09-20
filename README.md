@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Machine Learning with Tensorflow**
 
-- 🌱 I’m currently learning **product management**
+- 🌱 I’m currently learning **cybersecurity**
 
-- 📫 How to reach me **michelle.phan@colby.edu**
+- 📫 How to reach me **michelle.nlphan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
