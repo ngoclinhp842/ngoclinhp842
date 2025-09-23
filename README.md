@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michelle Phan</h1>
-<h3 align="center">A passionate software engineer from Vietnam</h3>
+<h3 align="center">A learner</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/508588/screenshots/11263629/thg_m78_02_4x.jpg">
 
