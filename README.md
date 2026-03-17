@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngoclinhp842&label=Profile%20views&color=0e75b6&style=flat" alt="ngoclinhp842" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning with Tensorflow**
+- 🔭 I’m currently working on **building adaptive traffic control simulation**
 
-- 🌱 I’m currently learning **cybersecurity**
+- 🌱 I’m currently learning **full-stack**
 
 - 📫 How to reach me **michelle.nlphan@gmail.com**
 
