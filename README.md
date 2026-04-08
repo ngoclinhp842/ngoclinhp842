@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Michelle Phan</h1>
 <h3 align="center"><img src="https://img.shields.io/badge/A_<div>a-FF69B4?style=flat" /></h3>
 
-<img align="right" src="https://github.com/ngoclinhp842/ngoclinhp842/blob/main/_.gif" width="400" />
+<img align="right" src="https://github.com/ngoclinhp842/ngoclinhp842/blob/main/_.gif" width="400" height="300"/>
 
 <p><img src="https://komarev.com/ghpvc/?username=ngoclinhp842&label=Profile%20views&color=0e75b6&style=flat" alt="ngoclinhp842" /></p>
 
